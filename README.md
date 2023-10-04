@@ -1,9 +1,8 @@
-| Title:      | Customer Inter Account Tranfer|
+| Title:      |  Update product review table |
 | ----------- | ----------|
 | Value Statement | Quickly search for items|
-|                  | Favotite item rating chart     |
-|                  |  pay for the product      |
-|                  |  Update product review table      |
+|                  | Favotite item rating chart 
+|                  |  Pay for the product      |
 | Acceptance Criteria   | Find good and safe materials        |
 |                  | Update the price list according to the market     |
 |                  |   Update the menu of new dishes according to the market  |
